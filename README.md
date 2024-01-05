@@ -14,4 +14,4 @@
 - JavaScript
 
 ## Link
-- [Iful Rahman Kalkulator App](https://ifulrahman.github.io/ifulrahman-kalkulator.github.io/)
+- [Iful Rahman Kalkulator App](https://ifulrahman.github.io/ifulrahman-kalkulator-github.io/)
